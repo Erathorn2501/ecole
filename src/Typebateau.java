@@ -1,3 +1,3 @@
 public enum Typebateau {
-    CRUISER, SUBMARIN
+    CRUISER, SUBMARIN, DESTROYER, BATTLESHIP, CARRIER
 }
